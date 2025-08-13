@@ -1,0 +1,40 @@
+{
+  "Rects": [
+    {
+      "x": 0,
+      "y": 16,
+      "w": 16,
+      "h": 16
+    }
+  ],
+  "Def": {
+    "__cHei": 2,
+    "__cWid": 4,
+    "cachedPixelData": {
+      "opaqueTiles": "00000000",
+      "averageColors": "43fa13fa23fa33fa73ea73e963e973ea"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Spirit_large2",
+    "padding": 0,
+    "pxHei": 32,
+    "pxWid": 64,
+    "relPath": "../Tilesets/Mini Legend Starter Bundle/characters/spirit-large.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 16,
+    "uid": 3
+  }
+}

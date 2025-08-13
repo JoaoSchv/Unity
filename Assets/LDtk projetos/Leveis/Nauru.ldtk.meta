@@ -1,0 +1,68 @@
+fileFormatVersion: 2
+guid: eae8576fba373ea47bef910e6bede6e8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: aaa16bfc62c086f4fb45da87b6acf9b1, type: 3}
+  _reimportOnDependencyChange: 1
+  _jsonFile: {fileID: -164016180542632921, guid: eae8576fba373ea47bef910e6bede6e8, type: 3}
+  _pixelsPerUnit: 16
+  _customLevelPrefab: {instanceID: 0}
+  _intGridValueColorsVisible: 0
+  _useCompositeCollider: 1
+  _geometryType: 0
+  _createBackgroundColor: 1
+  _createLevelBoundsTrigger: 0
+  _useParallax: 1
+  _scaleEntities: 1
+  _intGridValues:
+  - _key: Estalactitite_1
+    _asset: {instanceID: 0}
+  - _key: PEDRONA_QUE_CAI_1
+    _asset: {instanceID: 0}
+  - _key: Lamina_1
+    _asset: {instanceID: 0}
+  - _key: Corrente_vertical_1
+    _asset: {instanceID: 0}
+  - _key: Esgotinho_1
+    _asset: {instanceID: 0}
+  - _key: Porta_1
+    _asset: {instanceID: 0}
+  - _key: Madeira_2_1
+    _asset: {instanceID: 0}
+  - _key: Parede_quebravel_1
+    _asset: {instanceID: 0}
+  - _key: Bau_1
+    _asset: {instanceID: 0}
+  - _key: Corrente_lateral_1
+    _asset: {instanceID: 0}
+  - _key: Cipo_1
+    _asset: {instanceID: 0}
+  - _key: Cogumelo_1
+    _asset: {instanceID: 0}
+  - _key: ESpinho_1
+    _asset: {instanceID: 0}
+  - _key: Madeirinha_1
+    _asset: {instanceID: 0}
+  - _key: Chao_da_dungeon_1
+    _asset: {instanceID: 0}
+  - _key: Altares_1
+    _asset: {instanceID: 0}
+  - _key: Pedra_1
+    _asset: {instanceID: 0}
+  - _key: Water_1
+    _asset: {instanceID: 0}
+  - _key: Ground_2_1
+    _asset: {instanceID: 0}
+  - _key: Ground_1
+    _asset: {instanceID: 0}
+  _entities:
+  - _key: Spirit
+    _asset: {instanceID: 0}
+  _enumGenerate: 0
+  _enumPath: 
+  _enumNamespace: 

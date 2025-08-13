@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: d1626f0387d73dc40aa156d45b2e16dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4390641268490593189
+    second: CAETE ANIMADO-Sheet_0
+  - first:
+      213: 6755102378866554740
+    second: CAETE ANIMADO-Sheet_1
+  - first:
+      213: 7490005261766815156
+    second: CAETE ANIMADO-Sheet_2
+  - first:
+      213: 5324988864269304782
+    second: CAETE ANIMADO-Sheet_3
+  - first:
+      213: 1641934946670163426
+    second: CAETE ANIMADO-Sheet_4
+  - first:
+      213: -1461319181472409163
+    second: CAETE ANIMADO-Sheet_5
+  - first:
+      213: 7844934832851142111
+    second: CAETE ANIMADO-Sheet_6
+  - first:
+      213: 3771159750381140191
+    second: CAETE ANIMADO-Sheet_7
+  - first:
+      213: 1248721563295228481
+    second: CAETE ANIMADO-Sheet_8
+  - first:
+      213: 2397465988263375674
+    second: CAETE ANIMADO-Sheet_9
+  - first:
+      213: -7796993275896531884
+    second: CAETE ANIMADO-Sheet_10
+  - first:
+      213: -306243651073061074
+    second: CAETE ANIMADO-Sheet_11
+  - first:
+      213: -2881011703284100400
+    second: CAETE ANIMADO-Sheet_12
+  - first:
+      213: 4789262906559094615
+    second: CAETE ANIMADO-Sheet_13
+  - first:
+      213: -760195351390451865
+    second: CAETE ANIMADO-Sheet_14
+  - first:
+      213: -6467011317839078922
+    second: CAETE ANIMADO-Sheet_15
+  - first:
+      213: 2948489320365470903
+    second: CAETE ANIMADO-Sheet_16
+  - first:
+      213: -7909440058413338907
+    second: CAETE ANIMADO-Sheet_17
+  - first:
+      213: -7323815807504730355
+    second: CAETE ANIMADO-Sheet_18
+  - first:
+      213: 5608540332152474272
+    second: CAETE ANIMADO-Sheet_19
+  - first:
+      213: -4780097369199476540
+    second: CAETE ANIMADO-Sheet_20
+  - first:
+      213: 7260406126042257272
+    second: CAETE ANIMADO-Sheet_21
+  - first:
+      213: 4071646622351691927
+    second: CAETE ANIMADO-Sheet_22
+  - first:
+      213: 4029899500170843863
+    second: CAETE ANIMADO-Sheet_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586d42444c5c4864a88fdcd7e183da0e
+      internalID: -4390641268490593189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27158352e2f2be4e9e5c3f80f717c13
+      internalID: 6755102378866554740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729bf8b33798acd4fbe352bddc0820eb
+      internalID: 7490005261766815156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea11f4ba3dffd2d49ba1974fa71f7657
+      internalID: 5324988864269304782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c9f10a739949a459ee119623ce9498
+      internalID: 1641934946670163426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c377cdb6500694fbf546fcb1ef24fe
+      internalID: -1461319181472409163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d42c39b921227f4ea682e4b2c1ca85f
+      internalID: 7844934832851142111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe505fc06b41fb844be979826b4a7305
+      internalID: 3771159750381140191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf071021b9d9e6148bbd15eb7475e103
+      internalID: 1248721563295228481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31581dfc90e439841b9d5a58bc0e2cd5
+      internalID: 2397465988263375674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe06eb490854e1e44b770ef5b4b41b40
+      internalID: -7796993275896531884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e192791a0d9b6b4b84b83194a6b8215
+      internalID: -306243651073061074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f600250d254c74580e6062712200ae
+      internalID: -2881011703284100400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04547735e1ff3d34bb18e6af9a912df4
+      internalID: 4789262906559094615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aca6944e1684a47a1d2cf96fdc7411
+      internalID: -760195351390451865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d263e8da3687c4095ffb414a6681b2
+      internalID: -6467011317839078922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b36dc250c2e8994998e731c8066b833
+      internalID: 2948489320365470903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125496cf0c2afce47843b7486b1d8087
+      internalID: -7909440058413338907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4cc4f13942a204492005063acd1dde
+      internalID: -7323815807504730355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fecbf4c89488446ac7a10586ebb794
+      internalID: 5608540332152474272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96f9e5291f30d440af6394c7b65e8ee
+      internalID: -4780097369199476540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13dce5473670db49b706e2a735a874b
+      internalID: 7260406126042257272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c8cac5fead8a4d8cdb0fdd94d6fc4
+      internalID: 4071646622351691927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAETE ANIMADO-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638f25195d5b8b9438aff19e5c6169c7
+      internalID: 4029899500170843863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b38fb16984226714ba69b875ff20f3ad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CAETE ANIMADO-Sheet_0: -4390641268490593189
+      CAETE ANIMADO-Sheet_1: 6755102378866554740
+      CAETE ANIMADO-Sheet_10: -7796993275896531884
+      CAETE ANIMADO-Sheet_11: -306243651073061074
+      CAETE ANIMADO-Sheet_12: -2881011703284100400
+      CAETE ANIMADO-Sheet_13: 4789262906559094615
+      CAETE ANIMADO-Sheet_14: -760195351390451865
+      CAETE ANIMADO-Sheet_15: -6467011317839078922
+      CAETE ANIMADO-Sheet_16: 2948489320365470903
+      CAETE ANIMADO-Sheet_17: -7909440058413338907
+      CAETE ANIMADO-Sheet_18: -7323815807504730355
+      CAETE ANIMADO-Sheet_19: 5608540332152474272
+      CAETE ANIMADO-Sheet_2: 7490005261766815156
+      CAETE ANIMADO-Sheet_20: -4780097369199476540
+      CAETE ANIMADO-Sheet_21: 7260406126042257272
+      CAETE ANIMADO-Sheet_22: 4071646622351691927
+      CAETE ANIMADO-Sheet_23: 4029899500170843863
+      CAETE ANIMADO-Sheet_3: 5324988864269304782
+      CAETE ANIMADO-Sheet_4: 1641934946670163426
+      CAETE ANIMADO-Sheet_5: -1461319181472409163
+      CAETE ANIMADO-Sheet_6: 7844934832851142111
+      CAETE ANIMADO-Sheet_7: 3771159750381140191
+      CAETE ANIMADO-Sheet_8: 1248721563295228481
+      CAETE ANIMADO-Sheet_9: 2397465988263375674
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

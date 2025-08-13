@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: e54431ee4ee64a247aeb851947950f08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1028020381519259373
+    second: INIMIGO ANIMADO-Sheet_0
+  - first:
+      213: -2303538611570837955
+    second: INIMIGO ANIMADO-Sheet_1
+  - first:
+      213: -3281716197577779411
+    second: INIMIGO ANIMADO-Sheet_2
+  - first:
+      213: -5931150559716670662
+    second: INIMIGO ANIMADO-Sheet_3
+  - first:
+      213: 6242326338366875662
+    second: INIMIGO ANIMADO-Sheet_4
+  - first:
+      213: -9018999488868107732
+    second: INIMIGO ANIMADO-Sheet_5
+  - first:
+      213: 2067655008268724109
+    second: INIMIGO ANIMADO-Sheet_6
+  - first:
+      213: 5625600115581545685
+    second: INIMIGO ANIMADO-Sheet_7
+  - first:
+      213: -8848724242453746013
+    second: INIMIGO ANIMADO-Sheet_8
+  - first:
+      213: -3744445486333168587
+    second: INIMIGO ANIMADO-Sheet_9
+  - first:
+      213: -2346663817741442066
+    second: INIMIGO ANIMADO-Sheet_10
+  - first:
+      213: 6361259225224076989
+    second: INIMIGO ANIMADO-Sheet_11
+  - first:
+      213: -5343952999031702113
+    second: INIMIGO ANIMADO-Sheet_12
+  - first:
+      213: -4602436249754017016
+    second: INIMIGO ANIMADO-Sheet_13
+  - first:
+      213: 6844945096635798478
+    second: INIMIGO ANIMADO-Sheet_14
+  - first:
+      213: 356242366025108228
+    second: INIMIGO ANIMADO-Sheet_15
+  - first:
+      213: 1349115004383378634
+    second: INIMIGO ANIMADO-Sheet_16
+  - first:
+      213: 311076929817744772
+    second: INIMIGO ANIMADO-Sheet_17
+  - first:
+      213: 4097404243321764918
+    second: INIMIGO ANIMADO-Sheet_18
+  - first:
+      213: 1273795636486818735
+    second: INIMIGO ANIMADO-Sheet_19
+  - first:
+      213: 5301106452352778633
+    second: INIMIGO ANIMADO-Sheet_20
+  - first:
+      213: -6544863426706383562
+    second: INIMIGO ANIMADO-Sheet_21
+  - first:
+      213: -1968062575295782438
+    second: INIMIGO ANIMADO-Sheet_22
+  - first:
+      213: -8463265053176329637
+    second: INIMIGO ANIMADO-Sheet_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d282ba8ba9300c24a9131176aaf7243c
+      internalID: -1028020381519259373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59da91512a60124fa41f80c0ab646da
+      internalID: -2303538611570837955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0e55936784403439bda3762fec5be6
+      internalID: -3281716197577779411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12c3aaf8873b9f4581a1fee93297102
+      internalID: -5931150559716670662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b731cdb4bdea86418c6d6a36204bb58
+      internalID: 6242326338366875662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643bfa9b1e84f414a8eda0fe3416ded0
+      internalID: -9018999488868107732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e683daa3e2ea440bfdaa745ed7cdc1
+      internalID: 2067655008268724109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a341e52e0b84e247a37151a8b295983
+      internalID: 5625600115581545685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f9f6dc6775afd408a83c34e607338f
+      internalID: -8848724242453746013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0314faf4250a904eac352209a524ce7
+      internalID: -3744445486333168587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e814a9d8deae51547a39ce998d9e6322
+      internalID: -2346663817741442066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807cbe0146a98d94d8bce472c4e25c3c
+      internalID: 6361259225224076989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5470b112b1974b44eadf8ee60d2cf9d1
+      internalID: -5343952999031702113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7728a3f3305277e43bc4a858a80567d1
+      internalID: -4602436249754017016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3398b63c23b6a31419c8a033cbc8b30e
+      internalID: 6844945096635798478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f47a629aa46db4392b5873c3ee4050
+      internalID: 356242366025108228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f4566efdc6c9489387b85dde99686
+      internalID: 1349115004383378634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c419c5bf569529409373d57400cecc8
+      internalID: 311076929817744772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf54eb382c7f2d42bb672bbed5542de
+      internalID: 4097404243321764918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4410671fd6cb69418c16d7e7ae75a46
+      internalID: 1273795636486818735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034dded1bf175f449ba852ae41a20186
+      internalID: 5301106452352778633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c209e55ec3a68645a8bc39f4d514079
+      internalID: -6544863426706383562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d635e37b23c21df42af577556b6cf104
+      internalID: -1968062575295782438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INIMIGO ANIMADO-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 12
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea8d13801cc3db4e9031cbd67f5096a
+      internalID: -8463265053176329637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9c3c2abd321f66d4e8b07ca0974bc31b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      INIMIGO ANIMADO-Sheet_0: -1028020381519259373
+      INIMIGO ANIMADO-Sheet_1: -2303538611570837955
+      INIMIGO ANIMADO-Sheet_10: -2346663817741442066
+      INIMIGO ANIMADO-Sheet_11: 6361259225224076989
+      INIMIGO ANIMADO-Sheet_12: -5343952999031702113
+      INIMIGO ANIMADO-Sheet_13: -4602436249754017016
+      INIMIGO ANIMADO-Sheet_14: 6844945096635798478
+      INIMIGO ANIMADO-Sheet_15: 356242366025108228
+      INIMIGO ANIMADO-Sheet_16: 1349115004383378634
+      INIMIGO ANIMADO-Sheet_17: 311076929817744772
+      INIMIGO ANIMADO-Sheet_18: 4097404243321764918
+      INIMIGO ANIMADO-Sheet_19: 1273795636486818735
+      INIMIGO ANIMADO-Sheet_2: -3281716197577779411
+      INIMIGO ANIMADO-Sheet_20: 5301106452352778633
+      INIMIGO ANIMADO-Sheet_21: -6544863426706383562
+      INIMIGO ANIMADO-Sheet_22: -1968062575295782438
+      INIMIGO ANIMADO-Sheet_23: -8463265053176329637
+      INIMIGO ANIMADO-Sheet_3: -5931150559716670662
+      INIMIGO ANIMADO-Sheet_4: 6242326338366875662
+      INIMIGO ANIMADO-Sheet_5: -9018999488868107732
+      INIMIGO ANIMADO-Sheet_6: 2067655008268724109
+      INIMIGO ANIMADO-Sheet_7: 5625600115581545685
+      INIMIGO ANIMADO-Sheet_8: -8848724242453746013
+      INIMIGO ANIMADO-Sheet_9: -3744445486333168587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

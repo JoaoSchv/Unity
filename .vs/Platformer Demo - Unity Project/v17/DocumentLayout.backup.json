@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TCC\\Platformer Demo - Unity Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E8861B-B47A-AD18-FD0B-2C5D0901D89B}|Assembly-CSharp.csproj|d:\\tcc\\platformer demo - unity project\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E8861B-B47A-AD18-FD0B-2C5D0901D89B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E8861B-B47A-AD18-FD0B-2C5D0901D89B}|Assembly-CSharp.csproj|d:\\tcc\\platformer demo - unity project\\assets\\scripts\\fallingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E8861B-B47A-AD18-FD0B-2C5D0901D89B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fallingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TCC\\Platformer Demo - Unity Project\\Library\\PackageCache\\com.cammin.ldtkunity@6.11.2\\Runtime\\Tools\\LDtkDebugInstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.cammin.ldtkunity@6.11.2\\Runtime\\Tools\\LDtkDebugInstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TCC\\Platformer Demo - Unity Project\\Library\\PackageCache\\com.cammin.ldtkunity@6.11.2\\Runtime\\Tools\\LDtkDebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.cammin.ldtkunity@6.11.2\\Runtime\\Tools\\LDtkDebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\TCC\\Platformer Demo - Unity Project\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\TCC\\Platformer Demo - Unity Project\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwGIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:02:35.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FallingPlatform.cs",
+              "DocumentMoniker": "D:\\TCC\\Platformer Demo - Unity Project\\Assets\\Scripts\\FallingPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FallingPlatform.cs",
+              "ToolTip": "D:\\TCC\\Platformer Demo - Unity Project\\Assets\\Scripts\\FallingPlatform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FallingPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:07:33.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LDtkDebugInstance.cs",
+              "DocumentMoniker": "D:\\TCC\\Platformer Demo - Unity Project\\Library\\PackageCache\\com.cammin.ldtkunity@6.11.2\\Runtime\\Tools\\LDtkDebugInstance.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.cammin.ldtkunity@6.11.2\\Runtime\\Tools\\LDtkDebugInstance.cs",
+              "ToolTip": "D:\\TCC\\Platformer Demo - Unity Project\\Library\\PackageCache\\com.cammin.ldtkunity@6.11.2\\Runtime\\Tools\\LDtkDebugInstance.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.cammin.ldtkunity@6.11.2\\Runtime\\Tools\\LDtkDebugInstance.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:23:13.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LDtkDebug.cs",
+              "DocumentMoniker": "D:\\TCC\\Platformer Demo - Unity Project\\Library\\PackageCache\\com.cammin.ldtkunity@6.11.2\\Runtime\\Tools\\LDtkDebug.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.cammin.ldtkunity@6.11.2\\Runtime\\Tools\\LDtkDebug.cs",
+              "ToolTip": "D:\\TCC\\Platformer Demo - Unity Project\\Library\\PackageCache\\com.cammin.ldtkunity@6.11.2\\Runtime\\Tools\\LDtkDebug.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.cammin.ldtkunity@6.11.2\\Runtime\\Tools\\LDtkDebug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T15:09:33.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

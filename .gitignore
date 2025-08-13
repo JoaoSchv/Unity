@@ -1,0 +1,53 @@
+# Ignora pastas geradas automaticamente pelo Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Cache do Unity e relatórios
+sysinfo.txt
+*.stacktrace
+
+# Arquivos de configurações locais
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.tmp
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de build (iOS/Android)
+*.apk
+*.aab
+*.ipa
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# Crashlytics
+crashlytics-build.properties
+
+# Arquivos de backup do Visual Studio
+*.bak
+
+# Pastas de build geradas por sistemas externos
+Builds/

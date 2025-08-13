@@ -1,0 +1,1808 @@
+fileFormatVersion: 2
+guid: 15cf91886f77fad438bab16f42608f68
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: Bushes_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 240
+      width: 16
+      height: 16
+    spriteID: d2e239aad9a27a24684bc62b3ca73681
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 240
+      width: 16
+      height: 16
+    spriteID: ed3d985d70d31b54c89f71d0710145ad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 95b195e3666b795469352614bf115185
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 588b520a22d3bf741953b0d102cdc448
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 623405902ad1cd54aa661061fad690bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 240
+      width: 16
+      height: 16
+    spriteID: f4d9bb8d03f3e854a9be1913041199b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 8768d9b234150754997064a4675561e0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 1cfcd8d91ff464344952b115a9120ade
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 224
+      width: 16
+      height: 16
+    spriteID: ba98cb7887ff63e4f822194cb1d72f12
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 7e89071c106840c4a88cd0fff5856d84
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 28ccdb20b7750d34093b20946904333a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 2c6c1e1b53719724a8d67a06cc627a42
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 224
+      width: 16
+      height: 16
+    spriteID: ec96dbdd7fde10b4693d12d4b196f4bb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 890647907d60e854692d27813560ae9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 5785a174ab42f51429c404c8499bf9bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 224
+      width: 16
+      height: 16
+    spriteID: c6b55f63dabbecf44bf3a634e95bf3b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 208
+      width: 16
+      height: 16
+    spriteID: c71a08d443243054b8dfa278db520358
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 208
+      width: 16
+      height: 16
+    spriteID: d98b461fb7ae2dc42ae230d9d92009df
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 208
+      width: 16
+      height: 16
+    spriteID: a6e3d2feb3dfcec469fb5f8c525ed954
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 3c6393d3b7576eb40b1f4f608e482376
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 208
+      width: 16
+      height: 16
+    spriteID: b75c6e89165381d49b55b9a488dda77e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 2475d05e204b4aa49b1384d93cd98701
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 1d1478e39e981154f8c1742d7d510253
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 86a19911cc43c9148808da20314c354b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 367a6324acdc97245bc12a88fe8f8eb8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 192
+      width: 16
+      height: 16
+    spriteID: efb04f3a3b09f9b47bd6a61154765797
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 16
+      height: 16
+    spriteID: d8394fd19ce60974e96e51c420752f15
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 192
+      width: 16
+      height: 16
+    spriteID: f56422ec5db7b4e4ab6e077a4b980269
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 00bc8882f8180044b90f3f5dfb9caca6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 6e03ba0571039b3478d8065622ca933b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 16
+      height: 16
+    spriteID: e8cc7117f17503e41a3cfe405d2ca173
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 10598a96d7a38a04997988e3b275c671
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 48d130afbdc151c44b63ac4eac80e55f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 97deb436143081544ac07e5daa8d83f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 176
+      width: 16
+      height: 16
+    spriteID: d98894d437325304fa9a9fe76f88592a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 256ad81a8b0da3c469a554872600e877
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 5e860b813eeb1aa459f87f3c8bdab566
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 176
+      width: 16
+      height: 16
+    spriteID: eefa91add43595e40b20dd9b45adfca9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 23ed3879fafe87348a8ed69892217c48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 176
+      width: 16
+      height: 16
+    spriteID: d9ca50139c2af6244a0e7e6fd05ee434
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 3cbe2155870739047b48a7e3ac498fac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 4c06484430523804d88f50abc0d98212
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 178285c8405c96b47b69b2aae2ad3390
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 23116afac60832042acb3780d86cf467
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 5fcb2d7188ded7a4083910525a356303
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 160
+      width: 16
+      height: 16
+    spriteID: a9ac40cf7bd40b947a548a5b0cc93170
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 2d1cb19ec94b64147b3d988873d915d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 160
+      width: 16
+      height: 16
+    spriteID: d5312496483ffab4a85f1c362edfdede
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 5c0b8be98fc75a240841b24e4d68a008
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 144
+      width: 16
+      height: 16
+    spriteID: d8a4314e37b155f4e9afd9eb941ec0f1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 4ad4bdd161fb7d64ba73a4cdeed5ff60
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 95d1bd36cf7d368478fb426f49f6492d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 09e64707d5abadb4a84e178463345a35
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 78f83f0e7ecd57a4bb8afeaf3cd83b66
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 144
+      width: 16
+      height: 16
+    spriteID: a00e87eef001f254cb66e4a60ac1862a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 7f04fa93fb9c7da4f8b6221a9e480a5e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 18e7ca9aff9d6104ba634d5bdcef974b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 128
+      width: 16
+      height: 16
+    spriteID: f7a8267dcbdf198458e9b3ad4115d2a0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 63ba818730219a84d8bb5f3ae00e46c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 419cb2ebe7b38564fab298ec2f4de450
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 16
+      height: 16
+    spriteID: b8870972a6fc2ec46852f02dd0e272e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 39bc3b7b8370b714da7f25f4ad4baa57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 3c8b32477bd208241af34cae01cc6a3a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 128
+      width: 16
+      height: 16
+    spriteID: bfc8baeb0fc8d7049b6f542ccf9e0d9c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 112
+      width: 16
+      height: 16
+    spriteID: e4f1f1b96e8edd245a437f41a4d66808
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 3eca4eeb6eb77ef4b8c29ce051b4b8c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 21abd457233a7a24bb90d883610acbd2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 112
+      width: 16
+      height: 16
+    spriteID: c941dd8381502b64bb190754b154bc4c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 112
+      width: 16
+      height: 16
+    spriteID: b6e729e344b8d054787826956e383748
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 112
+      width: 16
+      height: 16
+    spriteID: a556ed96c09f4ce43950198fed76fc66
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 665efbbe5176cb34c92ff8936048a8d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 2e649a684f0a9014cb591093753772c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 62f7deec3ed5b3d458f74d1ddeac50d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 00f045d6b17ea5f43a45c4e4a4e65671
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 16
+      height: 16
+    spriteID: a1d5bc1aa3031cc4794490f5efe7c6a1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 88021dedec3b2e344b433cb86a740b24
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 8ae42121bc7ddd1438a7f4120de9a8b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 06324a8b1aacde343bd3ec37227e9b04
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 16
+      height: 16
+    spriteID: b0966def845c3584e97f630e57ce5435
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 96
+      width: 16
+      height: 16
+    spriteID: c9409ef7782b57f40bf14bc0afa401bb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 16
+      height: 16
+    spriteID: acb90b829a683b44797d4525faea68a6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 68cf317f01ec89b4fae7414c3755c8fe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 5d8111c44d089ec4c8f9119806008cb1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 515f737f625e6f04f8aa287d7a076958
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 16
+      height: 16
+    spriteID: e88b90aa489b17a4dbc05522c3c44bf2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 95f03f6e124377a4f9551683eb3cd81d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 019be1f67640daa49b6a351800a1849f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 38367f21d6bacc04283ed9f7ba5c1786
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 0b15d7b8368b58c4ba7045c06614f543
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 9b05dab8417269c45b9375616f46e4d9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: fe5bbe7c09e4399459de90074d1614a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 688d73062f7043743ab74020c4832c33
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 7cbb09cc5f106cb488575536f5a3d701
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 39b0f0bf24c270e4685e6a47680fd840
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 9ca1ccf88e728ce4b9f38c3d14f91578
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 64
+      width: 16
+      height: 16
+    spriteID: e48667d31d1f2cb428e300629635f510
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: f75c65a0bf4da4d4d9e125a62f676524
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 7bc0f3aa9b2fd04418fbd3b10bfb9810
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: f29ceb83ef9a9d448952c43aea16bdbb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 46accec7115d5e9439baabfd95d668b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: e07ed10355fd605438566a18f0bc803e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: ef8961c0b93595840aeb26d7758e9ee6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 16
+      height: 16
+    spriteID: cb9735c2b164dab4f9ef0701bec40327
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 1b483fa925d40404a88b5e53e079910d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: b0b36e21d7704ce4399895676a769ec8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 8d6ddaa9fad11304a94499b88ba7ac44
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 0fd86985b36c3cb45856928061792263
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 70152f6b3f9214840b30c17ca08cec97
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 5674fcda20e2b5445a24c227c7657f69
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 37eb0573d7a3a1f4893d80507fe159bc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 16
+      height: 16
+    spriteID: a2f0b4699b77392478a04ba28979ff1a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 8e46193dce7cb8941bcfe95bc787d8b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 18aa02ebae9370044b87301938b78fa1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: f94d08f9bf4be8a4ea133be4efc1741d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ebc360dcc0b240b41921a9627eeeaa0b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 99f7d955f1033894d91890b1878c4601
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: d3adda8790946df4fa132c89c7c9e74f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 544cd56bf0c5dd44a8b47d95a0ee2a0c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 16
+      height: 16
+    spriteID: c70cb8596c24c864eb8536af6c4be89b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 62c585c0153bf6f4b9df9a124a878801
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 8e7756674da7dcd4295bd64f28a9d7d6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 4ed0620cf0928d84ea8b1e7ead3a2ed5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 9ed7032acda7acd40b1c8edbeed63081
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 8339e6bde810ee747b138beb4bba5794
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 70befea9abea14946b9dce2dbcad4bc6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 946222b19d7d58c458fc7d713ac04481
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 266ae5508889ce94cb36c6781890bed2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bushes_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 09a0cf3c057f84b488e6717294457cfb
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}

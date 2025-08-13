@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: 298ce9f6b8ff3a2468f349e3ae23f6d2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: Inca_back2_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 208
+      width: 16
+      height: 16
+    spriteID: ee28e9285b1b5964abc966e39611b414
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 32e5cea036271b142be009fa76feb422
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 20141840edc66de449e6dc696f244c67
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 2d01aff28dd777a409821727fa183d49
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 208
+      width: 16
+      height: 16
+    spriteID: c9f202cd06c92674e8ef1826e6ffbab2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 109bc191dfa6a5d46a6d3728953ff398
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 208
+      width: 16
+      height: 16
+    spriteID: d6085becf77536943a2f6592fb0f13bc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 208
+      width: 16
+      height: 16
+    spriteID: e0b593e6c33bbeb4b9788eac2c24c5c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 81b29fa7c4b661940b223489a7886948
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 6d4017c63270a3542b0cfa303f5518ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 335ea27129e2b894b978890fcdae88b6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 192
+      width: 16
+      height: 16
+    spriteID: d13403ecb73ccc348b72773d1c5ec7bf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 37a66e797f6377b47b227e7199550e7a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 165685bcb1781da45b3a65c24b5f9136
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 3e7e16dbc0eea35408297d8ca6099f91
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 041e0495e866b99499bdf193ec4e3da5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 16
+      height: 16
+    spriteID: bede7d800f727d5478f9cf6c8ba2a1f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 192
+      width: 16
+      height: 16
+    spriteID: a59b105c9faade74aa6a05b353e84759
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 192
+      width: 16
+      height: 16
+    spriteID: c678605656ed43c47b42dcb6f259dd41
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 192
+      width: 16
+      height: 16
+    spriteID: b76a2cf471a1e8a4486746f518978d8f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 176
+      width: 16
+      height: 16
+    spriteID: f055229ff07c00342bf291a6a883b50d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 70b9926e32eabba4aa6fea2e83a766f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 176
+      width: 16
+      height: 16
+    spriteID: a631dc9b8657fd44c92b0e1fd509d061
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 176
+      width: 16
+      height: 16
+    spriteID: ac7aaa93c45932d4c91ab4cc28be6780
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 525fcbd8545185e4fa3472838e1ea306
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 176
+      width: 16
+      height: 16
+    spriteID: e536b33ab80549342847732bc0109dac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 705bb3f72e90e8b4990b2663de935cc5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 1f776b6ef708b774abdf765cff2cb656
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 176
+      width: 16
+      height: 16
+    spriteID: b1018ad612933be4a9bf21bb86a0f248
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 9f5eb517d9ae84f4d86083ac2a798672
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 16
+      height: 16
+    spriteID: e24c863a43dfc0a42af3be6f3a703468
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 160
+      width: 16
+      height: 16
+    spriteID: bbeafe1ea4aa3b648a2e0be79ef665b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 853aff634026a97408e53cd40244897c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 49a7f7e42cd404046aaa604933d98541
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 1ee6d94e8c3b59449b7d36b94f78a169
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 95a1dd944c0d7d448bca460f650f71fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 16
+      height: 16
+    spriteID: c9e62998bd815a74fbe4ef44d4dfbfd2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 1838ab5d973cc814a925451289e30dca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 49ed4b23600c1794f92a4a0846108093
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 248b74fa1f460c54296544b4978a0add
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 144
+      width: 16
+      height: 16
+    spriteID: bc74f3f76e6dd92448bb0f0f58e5ba49
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 241b333a470aa2b499a13b4e8f2c03d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 4a92d1f73eea2a94fa1c50c3b513a2a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 144
+      width: 16
+      height: 16
+    spriteID: b5e19670df2140d4287d353e1d58f622
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 02549933737bac64a91a8b55534b11f0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 825999cbff95592419573844a00fee48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 6fb4c1dc78b96da4bba84a39f001efc6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 88ee89cb66d32814d9b79789af99192a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 0c3bbf9d68f3faa48bfbd0c102593481
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 3076da34a63cddb49926096a2ea309ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 8d5eabb8d1b390e44affe08d4b542c35
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 135f2d0cddacfda47b1a6215939c65bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 16
+      height: 16
+    spriteID: ba8493013ce762f438d80609dfa00a42
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 62610393489a39843acd26c1610e5191
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 16
+      height: 16
+    spriteID: df17c8492e81a8d4f883db37a6e71d6d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 74038ff700129c84b85ad62bf7662b84
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 2a18cda2b148cc04480f96d187c13bdf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 42b110c802ea6f3459c348dc984ab001
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 4238fac4a13068244a4de8063f3879b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 2529bcefa8a0d814e8a36a95af7982c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 88ccca14252f74949931c4e0eae2b155
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 112
+      width: 16
+      height: 16
+    spriteID: e7d93f05a5f29784187c1bb6150fc51c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 120db57f168195247a057123685bd57a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 2da3d3d33f8b5d8448954c07d5760eae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 10fe990123cc4e4438d1ed73c8c1467e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 006f3718c13cd5e45989ce11ea90921a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 4d76cfe7e9856bb4bb9567f8c891bb2e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 9ac0b5f4a780bbb458fc22bc3e890db1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 6af7bbf4082233a4aad55cb6e89b7728
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 112
+      width: 16
+      height: 16
+    spriteID: fc7eb503238db1f4a866dba0cab55372
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 16
+      height: 16
+    spriteID: d3d788a77aaa47141bbefcc0f85c4ffa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 8c264a842a8b0d746aea50987f4bd1b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 6235ecc120d3072488419ecd26c40402
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 16
+      height: 16
+    spriteID: f1f90bb969a733b4bb0f02b5a9776e5f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 16
+      height: 16
+    spriteID: ff7d03c3744db3c44b89c9b2778b14c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 00796be9db8484843959881d5e90c366
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 3e5e32725e8112142bd48909662b3152
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 96
+      width: 16
+      height: 16
+    spriteID: b89d57718234b9940ad0e3e0ba03cc64
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 42543c3f60e54c4419d349e64707a7e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 96
+      width: 16
+      height: 16
+    spriteID: a63631e80e9a6ae4791f238976b7ce8d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 16
+      height: 16
+    spriteID: dbaf2279b6443b84b913dcbec44b8895
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 1c2b4311bb3d0c046b2d6653e1ba87b7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 16
+      height: 16
+    spriteID: ef377857a7d28504e8c0454cf7799bda
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 04b5b58949892a14aa62c284dd429c7e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 8b2b6ae2f1a001642b4e48552a2a955a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 96d62cbe0f171dc429664773c30b2f2e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 571f6a12ff872a84292932b5947f1b28
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c895bcd9f5aab784da99b46d5d4ba771
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c1296ad8f4d5ece498690b7a2cd566c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 2e1ab2c1a611c424ab218084fbb7c7ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 11bad0468a9c97245b717bdf4b864071
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: a6e557ec5e991c944bca0a145d9ccffc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4851a4f3601803749aeb4fede9565e08
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: ba9a0b657b65c3c4f803f329bdc57c0f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: d8baff39183671546bf34f0e6560e40c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: b4f61e4194981f041bfe87a8c9b54b19
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 16c2ce3dcbe8a3b469afdf05c92a52f9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 64
+      width: 16
+      height: 16
+    spriteID: aa0bbe07073837f4dbb5ddb2250e3785
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 16
+      height: 16
+    spriteID: e61cf571b7e94034dac6a26d2a4e3a32
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 6a702111d3022a5419063f007386696b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: a1bfbad4aec203f4aa6c28707e7580a9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: e686c2a6b60134749b3aa0ac3b31c2d3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 277b5f5042b0a4b4d9b5b3020c64f741
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 63ca131c73d2c6646b59c77ee58592a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 5ad9ae01a4c27e3498bc695e1fb1e943
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 60d6f5554648cb74eb4001b7a4d787c8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 16
+      height: 16
+    spriteID: d8c3538598acf304abc43850be666161
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 27ce410903056334898760f583d338a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 99e497caa82430c4097f00d7e911694a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 11e5bd88454c6a94184be17e3ecc182f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 414c9523c3e3631418cd786ac6bee318
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 02bd2043737bee348a2728c1dbb557d1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: e424dbf057071524eaabd4f04a3b909f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: cdbca8e95bd4ba34e9117096244749af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: bfa42aff7fedcbd488264b7369e6ebcf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: bf1e6d71da4d45a499a07d9d5bf665db
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 62472895c44fe954f96ac7cbb16bf85c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 32
+      width: 16
+      height: 16
+    spriteID: ef2e672f55135a44e809dc6d9be05f40
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 81ed4234dda15b746844da58819d74c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 32
+      width: 16
+      height: 16
+    spriteID: bde42c81495d0c84f8152e9c9986b4c8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 9fad2a22a7e21c84e93c608749b2f069
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 0d2f8331ca11a67429666c3e47c73d94
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 446a96ad3536b314cb5123ff8f85b2d2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 9cec0415d2c506e498c774831d6bfc82
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: d277f3318d80db54e83f7fcef0c7b358
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: dbad3ebb6d08f8b45906b17250f8f6ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 16
+      height: 16
+    spriteID: b6505896d5593a244a73e04e01705f31
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 16
+      width: 16
+      height: 16
+    spriteID: f398888ac36c7674aaa34703a9f8a835
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 6f2615663fc93c647b9bdd5eb93de99e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 3cd4520267b948c40990e65df8c227f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: b592e8ad42fc2d146a489df545eeb6ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 287dbc10c3cd07d4096724f1dcd97d68
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: d6412953a728ee54dabf545190024b63
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 216b56dc520c4bb4db4f47092b2adbf7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 550c7f7d6d0b36f41b490f8591c05b9e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 6f585bfcf2ac2614db9b091b62932622
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 16
+    spriteID: f0b06f5e12fe5174aa5c4e8a8335f6c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 2a2e5a1d40333b84bbee83e1986ea9f8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 7fabb3f29e65c484bb71b91b26586c71
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Inca_back2_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e64b1ce5f19b91c4b8445ad82b8b3b6f
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}
