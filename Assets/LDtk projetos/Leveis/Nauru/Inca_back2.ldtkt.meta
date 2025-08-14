@@ -23,7 +23,7 @@ ScriptedImporter:
       y: 208
       width: 16
       height: 16
-    spriteID: ee28e9285b1b5964abc966e39611b414
+    spriteID: 00d3291e68f0a03449dd72b4883a3985
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_1
@@ -37,7 +37,7 @@ ScriptedImporter:
       y: 208
       width: 16
       height: 16
-    spriteID: 32e5cea036271b142be009fa76feb422
+    spriteID: b34bc647233bda54499452376a698c91
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_2
@@ -51,7 +51,7 @@ ScriptedImporter:
       y: 208
       width: 16
       height: 16
-    spriteID: 20141840edc66de449e6dc696f244c67
+    spriteID: 6c63b79b49756c54da104ed70dc932f9
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_3
@@ -65,7 +65,7 @@ ScriptedImporter:
       y: 208
       width: 16
       height: 16
-    spriteID: 2d01aff28dd777a409821727fa183d49
+    spriteID: 9331d8afa3660c2478dc3b5f3b0afb64
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_4
@@ -79,7 +79,7 @@ ScriptedImporter:
       y: 208
       width: 16
       height: 16
-    spriteID: c9f202cd06c92674e8ef1826e6ffbab2
+    spriteID: 4d3661747d5212c43b9ef661ac7e97ac
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_5
@@ -93,7 +93,7 @@ ScriptedImporter:
       y: 208
       width: 16
       height: 16
-    spriteID: 109bc191dfa6a5d46a6d3728953ff398
+    spriteID: 541d28a6601bc6446ba0925e9fb2a594
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_6
@@ -107,7 +107,7 @@ ScriptedImporter:
       y: 208
       width: 16
       height: 16
-    spriteID: d6085becf77536943a2f6592fb0f13bc
+    spriteID: 683b3255fb7f8e04fbceb9d42ed7bfd3
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_7
@@ -121,7 +121,7 @@ ScriptedImporter:
       y: 208
       width: 16
       height: 16
-    spriteID: e0b593e6c33bbeb4b9788eac2c24c5c1
+    spriteID: 25446aebf1fe42f4db7a6afdb0d9a617
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_8
@@ -135,7 +135,7 @@ ScriptedImporter:
       y: 208
       width: 16
       height: 16
-    spriteID: 81b29fa7c4b661940b223489a7886948
+    spriteID: e58b662074849374a8c909fb4e22a9f2
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_9
@@ -149,7 +149,7 @@ ScriptedImporter:
       y: 208
       width: 16
       height: 16
-    spriteID: 6d4017c63270a3542b0cfa303f5518ea
+    spriteID: 38e64b4ce8dd3fc4ebd008fe66d60c81
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_10
@@ -163,7 +163,7 @@ ScriptedImporter:
       y: 192
       width: 16
       height: 16
-    spriteID: 335ea27129e2b894b978890fcdae88b6
+    spriteID: ac2282edca99d764eb8b1be988290ed8
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_11
@@ -177,7 +177,7 @@ ScriptedImporter:
       y: 192
       width: 16
       height: 16
-    spriteID: d13403ecb73ccc348b72773d1c5ec7bf
+    spriteID: 6c8e7695bfb102b408f12bc6ecb99cc8
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_12
@@ -191,7 +191,7 @@ ScriptedImporter:
       y: 192
       width: 16
       height: 16
-    spriteID: 37a66e797f6377b47b227e7199550e7a
+    spriteID: beab36bff2caeaa458a47d68f66fe174
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_13
@@ -205,7 +205,7 @@ ScriptedImporter:
       y: 192
       width: 16
       height: 16
-    spriteID: 165685bcb1781da45b3a65c24b5f9136
+    spriteID: 8419a7bc18f601942a8ca95077f5a657
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_14
@@ -219,7 +219,7 @@ ScriptedImporter:
       y: 192
       width: 16
       height: 16
-    spriteID: 3e7e16dbc0eea35408297d8ca6099f91
+    spriteID: 168b68e45470e3b48a2bfba4913a93e5
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_15
@@ -233,7 +233,7 @@ ScriptedImporter:
       y: 192
       width: 16
       height: 16
-    spriteID: 041e0495e866b99499bdf193ec4e3da5
+    spriteID: 880bbcb6c60229f448500a4979f77c09
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_16
@@ -247,7 +247,7 @@ ScriptedImporter:
       y: 192
       width: 16
       height: 16
-    spriteID: bede7d800f727d5478f9cf6c8ba2a1f7
+    spriteID: 4900ffb618054bd4a880fa2ff0ee361b
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_17
@@ -261,7 +261,7 @@ ScriptedImporter:
       y: 192
       width: 16
       height: 16
-    spriteID: a59b105c9faade74aa6a05b353e84759
+    spriteID: c8805df8664cbf6409cdbee2d7718449
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_18
@@ -275,7 +275,7 @@ ScriptedImporter:
       y: 192
       width: 16
       height: 16
-    spriteID: c678605656ed43c47b42dcb6f259dd41
+    spriteID: ed3ed61a39084e044b70218de78b3122
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_19
@@ -289,7 +289,7 @@ ScriptedImporter:
       y: 192
       width: 16
       height: 16
-    spriteID: b76a2cf471a1e8a4486746f518978d8f
+    spriteID: 47ba402d05bc6cf4ea316aa574ac6238
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_20
@@ -303,7 +303,7 @@ ScriptedImporter:
       y: 176
       width: 16
       height: 16
-    spriteID: f055229ff07c00342bf291a6a883b50d
+    spriteID: 7bc553b5c31759d46b9f72cbf92f7d87
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_21
@@ -317,7 +317,7 @@ ScriptedImporter:
       y: 176
       width: 16
       height: 16
-    spriteID: 70b9926e32eabba4aa6fea2e83a766f7
+    spriteID: e9d75a1558e6a174c9e7c225de067238
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_22
@@ -331,7 +331,7 @@ ScriptedImporter:
       y: 176
       width: 16
       height: 16
-    spriteID: a631dc9b8657fd44c92b0e1fd509d061
+    spriteID: afd740c73df98324aa098c30be15697a
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_23
@@ -345,7 +345,7 @@ ScriptedImporter:
       y: 176
       width: 16
       height: 16
-    spriteID: ac7aaa93c45932d4c91ab4cc28be6780
+    spriteID: 76707b87a13782a45a9353cdf3d3f29e
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_24
@@ -359,7 +359,7 @@ ScriptedImporter:
       y: 176
       width: 16
       height: 16
-    spriteID: 525fcbd8545185e4fa3472838e1ea306
+    spriteID: 1bfc03ff8c539024abf2a24b94c5ae28
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_25
@@ -373,7 +373,7 @@ ScriptedImporter:
       y: 176
       width: 16
       height: 16
-    spriteID: e536b33ab80549342847732bc0109dac
+    spriteID: f4a7d5438b3573145bfa754c5513d100
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_26
@@ -387,7 +387,7 @@ ScriptedImporter:
       y: 176
       width: 16
       height: 16
-    spriteID: 705bb3f72e90e8b4990b2663de935cc5
+    spriteID: ee7d458fcff58fd4e935557089acf21f
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_27
@@ -401,7 +401,7 @@ ScriptedImporter:
       y: 176
       width: 16
       height: 16
-    spriteID: 1f776b6ef708b774abdf765cff2cb656
+    spriteID: 414af50e5b546cf48b17c7de82512b26
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_28
@@ -415,7 +415,7 @@ ScriptedImporter:
       y: 176
       width: 16
       height: 16
-    spriteID: b1018ad612933be4a9bf21bb86a0f248
+    spriteID: f07e0b3be056106458b817b24cf1d89f
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_29
@@ -429,7 +429,7 @@ ScriptedImporter:
       y: 176
       width: 16
       height: 16
-    spriteID: 9f5eb517d9ae84f4d86083ac2a798672
+    spriteID: ff3af99d3d45edf45a3fdad0eecbaa73
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_30
@@ -443,7 +443,7 @@ ScriptedImporter:
       y: 160
       width: 16
       height: 16
-    spriteID: e24c863a43dfc0a42af3be6f3a703468
+    spriteID: f8cbc50edeb8ea745b09850a4c03f4aa
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_31
@@ -457,7 +457,7 @@ ScriptedImporter:
       y: 160
       width: 16
       height: 16
-    spriteID: bbeafe1ea4aa3b648a2e0be79ef665b3
+    spriteID: fad155736cd8f8543b50219371121086
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_32
@@ -471,7 +471,7 @@ ScriptedImporter:
       y: 160
       width: 16
       height: 16
-    spriteID: 853aff634026a97408e53cd40244897c
+    spriteID: cc30f515492a17347ad402964ddc2274
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_33
@@ -485,7 +485,7 @@ ScriptedImporter:
       y: 160
       width: 16
       height: 16
-    spriteID: 49a7f7e42cd404046aaa604933d98541
+    spriteID: edac194f08f4b6f4ab68f7dfcfa5d66a
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_34
@@ -499,7 +499,7 @@ ScriptedImporter:
       y: 160
       width: 16
       height: 16
-    spriteID: 1ee6d94e8c3b59449b7d36b94f78a169
+    spriteID: 676b1e44bc25c7143a733c64df287b9f
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_35
@@ -513,7 +513,7 @@ ScriptedImporter:
       y: 160
       width: 16
       height: 16
-    spriteID: 95a1dd944c0d7d448bca460f650f71fb
+    spriteID: 29a9a6e09b43cfe4ebedcef72db2a232
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_36
@@ -527,7 +527,7 @@ ScriptedImporter:
       y: 160
       width: 16
       height: 16
-    spriteID: c9e62998bd815a74fbe4ef44d4dfbfd2
+    spriteID: b608a75514613ef4a9caaaadd4cc20b5
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_37
@@ -541,7 +541,7 @@ ScriptedImporter:
       y: 160
       width: 16
       height: 16
-    spriteID: 1838ab5d973cc814a925451289e30dca
+    spriteID: 537b19521b387574db52ea825f288ed3
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_38
@@ -555,7 +555,7 @@ ScriptedImporter:
       y: 160
       width: 16
       height: 16
-    spriteID: 49ed4b23600c1794f92a4a0846108093
+    spriteID: 3947ba9260e6ddd428decdd666bc42fe
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_39
@@ -569,7 +569,7 @@ ScriptedImporter:
       y: 160
       width: 16
       height: 16
-    spriteID: 248b74fa1f460c54296544b4978a0add
+    spriteID: 64c983fbd10113044971d159871d517e
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_40
@@ -583,7 +583,7 @@ ScriptedImporter:
       y: 144
       width: 16
       height: 16
-    spriteID: bc74f3f76e6dd92448bb0f0f58e5ba49
+    spriteID: 6443e9f073a2976408ad22306bef59be
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_41
@@ -597,7 +597,7 @@ ScriptedImporter:
       y: 144
       width: 16
       height: 16
-    spriteID: 241b333a470aa2b499a13b4e8f2c03d8
+    spriteID: 3a12166b5eda1864e91a57365b129c06
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_42
@@ -611,7 +611,7 @@ ScriptedImporter:
       y: 144
       width: 16
       height: 16
-    spriteID: 4a92d1f73eea2a94fa1c50c3b513a2a4
+    spriteID: 9650503169cfd98478b533e4969e09c7
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_43
@@ -625,7 +625,7 @@ ScriptedImporter:
       y: 144
       width: 16
       height: 16
-    spriteID: b5e19670df2140d4287d353e1d58f622
+    spriteID: 2c868f9cd580375409521c163c3868dd
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_44
@@ -639,7 +639,7 @@ ScriptedImporter:
       y: 144
       width: 16
       height: 16
-    spriteID: 02549933737bac64a91a8b55534b11f0
+    spriteID: 6f24c3797c779584abec5642de8de309
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_45
@@ -653,7 +653,7 @@ ScriptedImporter:
       y: 144
       width: 16
       height: 16
-    spriteID: 825999cbff95592419573844a00fee48
+    spriteID: ee9d52491ae4dc443a3b7e0fabd62945
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_46
@@ -667,7 +667,7 @@ ScriptedImporter:
       y: 144
       width: 16
       height: 16
-    spriteID: 6fb4c1dc78b96da4bba84a39f001efc6
+    spriteID: 8a717ebbbd7af044388f9bea75680568
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_47
@@ -681,7 +681,7 @@ ScriptedImporter:
       y: 144
       width: 16
       height: 16
-    spriteID: 88ee89cb66d32814d9b79789af99192a
+    spriteID: b3f28f6d1b4040e4aa4864427928507f
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_48
@@ -695,7 +695,7 @@ ScriptedImporter:
       y: 144
       width: 16
       height: 16
-    spriteID: 0c3bbf9d68f3faa48bfbd0c102593481
+    spriteID: ac89810834a2ff04f9dbbeb61934c938
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_49
@@ -709,7 +709,7 @@ ScriptedImporter:
       y: 144
       width: 16
       height: 16
-    spriteID: 3076da34a63cddb49926096a2ea309ed
+    spriteID: e3c52ce0fb67cd1468dc4dc8c457b7cb
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_50
@@ -723,7 +723,7 @@ ScriptedImporter:
       y: 128
       width: 16
       height: 16
-    spriteID: 8d5eabb8d1b390e44affe08d4b542c35
+    spriteID: 24c5c63556e3b81458e92f34d8b97b81
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_51
@@ -737,7 +737,7 @@ ScriptedImporter:
       y: 128
       width: 16
       height: 16
-    spriteID: 135f2d0cddacfda47b1a6215939c65bd
+    spriteID: 81deded84b9d23e4b88a14e0eed2eadd
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_52
@@ -751,7 +751,7 @@ ScriptedImporter:
       y: 128
       width: 16
       height: 16
-    spriteID: ba8493013ce762f438d80609dfa00a42
+    spriteID: 2b7b337b7a74cfb4db391b2e549d5191
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_53
@@ -765,7 +765,7 @@ ScriptedImporter:
       y: 128
       width: 16
       height: 16
-    spriteID: 62610393489a39843acd26c1610e5191
+    spriteID: 8f1287df3b1ed034aa8608a609517c18
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_54
@@ -779,7 +779,7 @@ ScriptedImporter:
       y: 128
       width: 16
       height: 16
-    spriteID: df17c8492e81a8d4f883db37a6e71d6d
+    spriteID: 888776c335a87004c9492483086dc4fb
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_55
@@ -793,7 +793,7 @@ ScriptedImporter:
       y: 128
       width: 16
       height: 16
-    spriteID: 74038ff700129c84b85ad62bf7662b84
+    spriteID: 7f5e1418ca3c8164798feb59093de22b
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_56
@@ -807,7 +807,7 @@ ScriptedImporter:
       y: 128
       width: 16
       height: 16
-    spriteID: 2a18cda2b148cc04480f96d187c13bdf
+    spriteID: 3ef883c2f9e030e409359b7c38fdeaaf
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_57
@@ -821,7 +821,7 @@ ScriptedImporter:
       y: 128
       width: 16
       height: 16
-    spriteID: 42b110c802ea6f3459c348dc984ab001
+    spriteID: b5ee0149329da2748af9d4e589ccbeab
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_58
@@ -835,7 +835,7 @@ ScriptedImporter:
       y: 128
       width: 16
       height: 16
-    spriteID: 4238fac4a13068244a4de8063f3879b5
+    spriteID: e58d6fe6f7d9b0e419738a508ba13c19
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_59
@@ -849,7 +849,7 @@ ScriptedImporter:
       y: 128
       width: 16
       height: 16
-    spriteID: 2529bcefa8a0d814e8a36a95af7982c6
+    spriteID: 67dd955ab82bc944996959b8815c493d
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_60
@@ -863,7 +863,7 @@ ScriptedImporter:
       y: 112
       width: 16
       height: 16
-    spriteID: 88ccca14252f74949931c4e0eae2b155
+    spriteID: e8275b318400831468c5c197e3449636
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_61
@@ -877,7 +877,7 @@ ScriptedImporter:
       y: 112
       width: 16
       height: 16
-    spriteID: e7d93f05a5f29784187c1bb6150fc51c
+    spriteID: 93d1b1ccce674654584bba5fe4d689ca
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_62
@@ -891,7 +891,7 @@ ScriptedImporter:
       y: 112
       width: 16
       height: 16
-    spriteID: 120db57f168195247a057123685bd57a
+    spriteID: c1e198ba950ecbc4b8c4847880acc1f7
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_63
@@ -905,7 +905,7 @@ ScriptedImporter:
       y: 112
       width: 16
       height: 16
-    spriteID: 2da3d3d33f8b5d8448954c07d5760eae
+    spriteID: 2eb7cf5a635caaa499e712fbb5649658
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_64
@@ -919,7 +919,7 @@ ScriptedImporter:
       y: 112
       width: 16
       height: 16
-    spriteID: 10fe990123cc4e4438d1ed73c8c1467e
+    spriteID: 88d11108221665b46941a16214153342
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_65
@@ -933,7 +933,7 @@ ScriptedImporter:
       y: 112
       width: 16
       height: 16
-    spriteID: 006f3718c13cd5e45989ce11ea90921a
+    spriteID: e300b6654c9805d46a59053556d15f8d
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_66
@@ -947,7 +947,7 @@ ScriptedImporter:
       y: 112
       width: 16
       height: 16
-    spriteID: 4d76cfe7e9856bb4bb9567f8c891bb2e
+    spriteID: 08141f20bee92b74ab1ed6a0a134e72d
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_67
@@ -961,7 +961,7 @@ ScriptedImporter:
       y: 112
       width: 16
       height: 16
-    spriteID: 9ac0b5f4a780bbb458fc22bc3e890db1
+    spriteID: 5e00c3022542e25438e8a4a071a8585d
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_68
@@ -975,7 +975,7 @@ ScriptedImporter:
       y: 112
       width: 16
       height: 16
-    spriteID: 6af7bbf4082233a4aad55cb6e89b7728
+    spriteID: 834357445a32e3a4087d0a9aa09c326a
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_69
@@ -989,7 +989,7 @@ ScriptedImporter:
       y: 112
       width: 16
       height: 16
-    spriteID: fc7eb503238db1f4a866dba0cab55372
+    spriteID: f5cb64e23ac1da7419d635796d847cb0
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_70
@@ -1003,7 +1003,7 @@ ScriptedImporter:
       y: 96
       width: 16
       height: 16
-    spriteID: d3d788a77aaa47141bbefcc0f85c4ffa
+    spriteID: b5f1f6c0fcc17904d8ad70d5a9e000b2
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_71
@@ -1017,7 +1017,7 @@ ScriptedImporter:
       y: 96
       width: 16
       height: 16
-    spriteID: 8c264a842a8b0d746aea50987f4bd1b1
+    spriteID: bee1ca695e9e87a488e3ce0a2e76ed68
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_72
@@ -1031,7 +1031,7 @@ ScriptedImporter:
       y: 96
       width: 16
       height: 16
-    spriteID: 6235ecc120d3072488419ecd26c40402
+    spriteID: d6145b30683f44b4bac403f97bb20247
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_73
@@ -1045,7 +1045,7 @@ ScriptedImporter:
       y: 96
       width: 16
       height: 16
-    spriteID: f1f90bb969a733b4bb0f02b5a9776e5f
+    spriteID: c262216387be63049a5f2ae4c4107818
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_74
@@ -1059,7 +1059,7 @@ ScriptedImporter:
       y: 96
       width: 16
       height: 16
-    spriteID: ff7d03c3744db3c44b89c9b2778b14c1
+    spriteID: 7f76457b7920ec7498096899f57cba7b
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_75
@@ -1073,7 +1073,7 @@ ScriptedImporter:
       y: 96
       width: 16
       height: 16
-    spriteID: 00796be9db8484843959881d5e90c366
+    spriteID: 4c58b6b536431054898497a2450e9287
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_76
@@ -1087,7 +1087,7 @@ ScriptedImporter:
       y: 96
       width: 16
       height: 16
-    spriteID: 3e5e32725e8112142bd48909662b3152
+    spriteID: e8075bbee4c3bf448ad1b7d2f7bcaab9
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_77
@@ -1101,7 +1101,7 @@ ScriptedImporter:
       y: 96
       width: 16
       height: 16
-    spriteID: b89d57718234b9940ad0e3e0ba03cc64
+    spriteID: 7c97ae3d5862e1c4a8bc022f38a0987c
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_78
@@ -1115,7 +1115,7 @@ ScriptedImporter:
       y: 96
       width: 16
       height: 16
-    spriteID: 42543c3f60e54c4419d349e64707a7e2
+    spriteID: cf14a683d845f3c458d32de598c0bf94
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_79
@@ -1129,7 +1129,7 @@ ScriptedImporter:
       y: 96
       width: 16
       height: 16
-    spriteID: a63631e80e9a6ae4791f238976b7ce8d
+    spriteID: f9721bbf3ab84404abf5eeb0f8f46956
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_80
@@ -1143,7 +1143,7 @@ ScriptedImporter:
       y: 80
       width: 16
       height: 16
-    spriteID: dbaf2279b6443b84b913dcbec44b8895
+    spriteID: 028e45867d0975b419b5599c083d5960
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_81
@@ -1157,7 +1157,7 @@ ScriptedImporter:
       y: 80
       width: 16
       height: 16
-    spriteID: 1c2b4311bb3d0c046b2d6653e1ba87b7
+    spriteID: 838109e84cdb4b849ab1aee88656ad9a
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_82
@@ -1171,7 +1171,7 @@ ScriptedImporter:
       y: 80
       width: 16
       height: 16
-    spriteID: ef377857a7d28504e8c0454cf7799bda
+    spriteID: 0349f6b08d9c8ef46b9bc1cf6a5e6a90
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_83
@@ -1185,7 +1185,7 @@ ScriptedImporter:
       y: 80
       width: 16
       height: 16
-    spriteID: 04b5b58949892a14aa62c284dd429c7e
+    spriteID: c884599cad31ab946ae595eefe811c70
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_84
@@ -1199,7 +1199,7 @@ ScriptedImporter:
       y: 80
       width: 16
       height: 16
-    spriteID: 8b2b6ae2f1a001642b4e48552a2a955a
+    spriteID: 82b4124b707cac9489dac57bda5b2e89
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_85
@@ -1213,7 +1213,7 @@ ScriptedImporter:
       y: 80
       width: 16
       height: 16
-    spriteID: 96d62cbe0f171dc429664773c30b2f2e
+    spriteID: 2c26428cce0d4fe46a6bf9c4ba2f2ec0
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_86
@@ -1227,7 +1227,7 @@ ScriptedImporter:
       y: 80
       width: 16
       height: 16
-    spriteID: 571f6a12ff872a84292932b5947f1b28
+    spriteID: 98c1c8fec63430b4c9c587dd0d714030
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_87
@@ -1241,7 +1241,7 @@ ScriptedImporter:
       y: 80
       width: 16
       height: 16
-    spriteID: c895bcd9f5aab784da99b46d5d4ba771
+    spriteID: aaabd09d537a60c42a92354208aea11b
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_88
@@ -1255,7 +1255,7 @@ ScriptedImporter:
       y: 80
       width: 16
       height: 16
-    spriteID: c1296ad8f4d5ece498690b7a2cd566c4
+    spriteID: 1ab8275fec8305840aaaec350e9bdd13
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_89
@@ -1269,7 +1269,7 @@ ScriptedImporter:
       y: 80
       width: 16
       height: 16
-    spriteID: 2e1ab2c1a611c424ab218084fbb7c7ea
+    spriteID: 1e5faa4860123f54bb97427d91af24af
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_90
@@ -1283,7 +1283,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: 11bad0468a9c97245b717bdf4b864071
+    spriteID: ee21f60c203b09f49ba3f0901f1ccbcc
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_91
@@ -1297,7 +1297,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: a6e557ec5e991c944bca0a145d9ccffc
+    spriteID: 43d63be9643102846add475b0815ebad
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_92
@@ -1311,7 +1311,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: 4851a4f3601803749aeb4fede9565e08
+    spriteID: 61aa73eee3871dd47bd7ff6f97f809c2
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_93
@@ -1325,7 +1325,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: ba9a0b657b65c3c4f803f329bdc57c0f
+    spriteID: 68da6479e9d4e04419a79afadddedcd7
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_94
@@ -1339,7 +1339,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: d8baff39183671546bf34f0e6560e40c
+    spriteID: 79c519a4088710643a70cf4362962bd2
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_95
@@ -1353,7 +1353,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: b4f61e4194981f041bfe87a8c9b54b19
+    spriteID: f8c5ed3cd24edd34ca1dd3f86cc29d93
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_96
@@ -1367,7 +1367,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: 16c2ce3dcbe8a3b469afdf05c92a52f9
+    spriteID: c9ef580e768a3074b9372cdcfafe0c29
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_97
@@ -1381,7 +1381,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: aa0bbe07073837f4dbb5ddb2250e3785
+    spriteID: 131042edb61a6644797e3ae6e75f29fb
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_98
@@ -1395,7 +1395,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: e61cf571b7e94034dac6a26d2a4e3a32
+    spriteID: c8025199a381a4d4f814de6a06b77be5
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_99
@@ -1409,7 +1409,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: 6a702111d3022a5419063f007386696b
+    spriteID: d925490eef93a55458f844a9b750ba53
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_100
@@ -1423,7 +1423,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: a1bfbad4aec203f4aa6c28707e7580a9
+    spriteID: 660e81742f9e96344923184dec989396
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_101
@@ -1437,7 +1437,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: e686c2a6b60134749b3aa0ac3b31c2d3
+    spriteID: 18dcfc51e4f015548af48973c1bf2e8a
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_102
@@ -1451,7 +1451,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 277b5f5042b0a4b4d9b5b3020c64f741
+    spriteID: 660e0271f2116744ebe9aa25a7646589
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_103
@@ -1465,7 +1465,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 63ca131c73d2c6646b59c77ee58592a8
+    spriteID: 0c57cc8ce9e98ea4ebaa0df1079eaef7
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_104
@@ -1479,7 +1479,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 5ad9ae01a4c27e3498bc695e1fb1e943
+    spriteID: a373d7845cd7a924fbb3544d7972a8d5
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_105
@@ -1493,7 +1493,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 60d6f5554648cb74eb4001b7a4d787c8
+    spriteID: 46d7c9d19e57d1944a7bc66b224c53f7
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_106
@@ -1507,7 +1507,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: d8c3538598acf304abc43850be666161
+    spriteID: 28b25e0ef0f84644c97d1492955059ee
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_107
@@ -1521,7 +1521,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 27ce410903056334898760f583d338a4
+    spriteID: 2093786838254ef428a02fe1a459fe72
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_108
@@ -1535,7 +1535,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 99e497caa82430c4097f00d7e911694a
+    spriteID: 4d7720c3c25b440459ff45c8b675a2e9
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_109
@@ -1549,7 +1549,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 11e5bd88454c6a94184be17e3ecc182f
+    spriteID: bdbad4e402759c14a864552157e7bbb3
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_110
@@ -1563,7 +1563,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: 414c9523c3e3631418cd786ac6bee318
+    spriteID: 94e54356fff563a48993385dcea357db
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_111
@@ -1577,7 +1577,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: 02bd2043737bee348a2728c1dbb557d1
+    spriteID: dc2e5f6f23007cb46ac783f9a81e67a6
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_112
@@ -1591,7 +1591,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: e424dbf057071524eaabd4f04a3b909f
+    spriteID: 074a85b0082b8de419deaf44d3f07e7f
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_113
@@ -1605,7 +1605,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: cdbca8e95bd4ba34e9117096244749af
+    spriteID: 709be1e68d4685a40bfa6125a4fa1bcc
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_114
@@ -1619,7 +1619,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: bfa42aff7fedcbd488264b7369e6ebcf
+    spriteID: 02a9cedf0bb8a4d40a11e12820cf44cb
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_115
@@ -1633,7 +1633,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: bf1e6d71da4d45a499a07d9d5bf665db
+    spriteID: db476784d7dc0f142b720407a25aa8d7
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_116
@@ -1647,7 +1647,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: 62472895c44fe954f96ac7cbb16bf85c
+    spriteID: 33ce5fdd2d2109b47b5ed8fdba2919bb
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_117
@@ -1661,7 +1661,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: ef2e672f55135a44e809dc6d9be05f40
+    spriteID: 5300f2f94cfc4124aa30f416af7b9899
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_118
@@ -1675,7 +1675,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: 81ed4234dda15b746844da58819d74c2
+    spriteID: 8ef834270e119fd4a90115cd25bceb12
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_119
@@ -1689,7 +1689,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: bde42c81495d0c84f8152e9c9986b4c8
+    spriteID: 489e8981dff3a4946829be5996b8eb39
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_120
@@ -1703,7 +1703,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 9fad2a22a7e21c84e93c608749b2f069
+    spriteID: db092c68d109e29499a34ad02a853ddb
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_121
@@ -1717,7 +1717,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 0d2f8331ca11a67429666c3e47c73d94
+    spriteID: 053d0cb8a7de3b9459580051c9c8aa8a
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_122
@@ -1731,7 +1731,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 446a96ad3536b314cb5123ff8f85b2d2
+    spriteID: 7291aad7867a99a469df1844f8acb7ed
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_123
@@ -1745,7 +1745,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 9cec0415d2c506e498c774831d6bfc82
+    spriteID: bf1d694df865d634bb511051c7098e91
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_124
@@ -1759,7 +1759,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: d277f3318d80db54e83f7fcef0c7b358
+    spriteID: e9bd2db6f34ad7a4aa9030df66925864
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_125
@@ -1773,7 +1773,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: dbad3ebb6d08f8b45906b17250f8f6ae
+    spriteID: ac280b835f06ef94388eb864002a5b5c
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_126
@@ -1787,7 +1787,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: b6505896d5593a244a73e04e01705f31
+    spriteID: 39f550532327f8e479e71baefa2f3bde
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_127
@@ -1801,7 +1801,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: f398888ac36c7674aaa34703a9f8a835
+    spriteID: b33f7f6f829deef49b7f785caad50061
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_128
@@ -1815,7 +1815,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 6f2615663fc93c647b9bdd5eb93de99e
+    spriteID: b663d9db59270fb42bbe3e8679656aff
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_129
@@ -1829,7 +1829,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 3cd4520267b948c40990e65df8c227f7
+    spriteID: 450cea41660854944afb6f9d6004692c
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_130
@@ -1843,7 +1843,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: b592e8ad42fc2d146a489df545eeb6ca
+    spriteID: e4dae766ede91854a893a83227e96e6a
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_131
@@ -1857,7 +1857,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: 287dbc10c3cd07d4096724f1dcd97d68
+    spriteID: 1fa678cb996bd3f4f91912dd4f0ecd8a
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_132
@@ -1871,7 +1871,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: d6412953a728ee54dabf545190024b63
+    spriteID: 1e419f7a56966134a9929d819b95a0bd
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_133
@@ -1885,7 +1885,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: 216b56dc520c4bb4db4f47092b2adbf7
+    spriteID: 1e8991a2c64a85244a7dfee88792eef4
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_134
@@ -1899,7 +1899,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: 550c7f7d6d0b36f41b490f8591c05b9e
+    spriteID: f675fc6a9d3920f45bc0b161ac0b93d3
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_135
@@ -1913,7 +1913,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: 6f585bfcf2ac2614db9b091b62932622
+    spriteID: 290d1293204538244839db31de965a87
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_136
@@ -1927,7 +1927,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: f0b06f5e12fe5174aa5c4e8a8335f6c2
+    spriteID: 3791f4e162ca79545b84045d5efa5b18
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_137
@@ -1941,7 +1941,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: 2a2e5a1d40333b84bbee83e1986ea9f8
+    spriteID: 07ec7a5f30cfbeb45bfa1491fd02e838
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_138
@@ -1955,7 +1955,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: 7fabb3f29e65c484bb71b91b26586c71
+    spriteID: 99de588c48070684fb466b8b004ff0e2
     spriteOutline: []
     tessellationDetail: 0
   - name: Inca_back2_139
@@ -1969,7 +1969,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: e64b1ce5f19b91c4b8445ad82b8b3b6f
+    spriteID: 2624b360f9d57a64b8c8084a95987a2e
     spriteOutline: []
     tessellationDetail: 0
   _secondaryTextures: []

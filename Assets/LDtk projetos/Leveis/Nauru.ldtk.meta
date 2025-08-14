@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: eae8576fba373ea47bef910e6bede6e8
+guid: d1fda397a1b04b046b45716c4364ecad
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -9,7 +9,7 @@ ScriptedImporter:
   assetBundleVariant: 
   script: {fileID: 11500000, guid: aaa16bfc62c086f4fb45da87b6acf9b1, type: 3}
   _reimportOnDependencyChange: 1
-  _jsonFile: {fileID: -164016180542632921, guid: eae8576fba373ea47bef910e6bede6e8, type: 3}
+  _jsonFile: {fileID: -164016180542632921, guid: d1fda397a1b04b046b45716c4364ecad, type: 3}
   _pixelsPerUnit: 16
   _customLevelPrefab: {instanceID: 0}
   _intGridValueColorsVisible: 0
@@ -20,6 +20,14 @@ ScriptedImporter:
   _useParallax: 1
   _scaleEntities: 1
   _intGridValues:
+  - _key: Chao_templo_1
+    _asset: {instanceID: 0}
+  - _key: Teto_templo_2_1
+    _asset: {instanceID: 0}
+  - _key: Teto_templo_1
+    _asset: {instanceID: 0}
+  - _key: Parede_templo_1
+    _asset: {instanceID: 0}
   - _key: Estalactitite_1
     _asset: {instanceID: 0}
   - _key: PEDRONA_QUE_CAI_1

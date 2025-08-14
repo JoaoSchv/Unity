@@ -23,7 +23,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 72aaf23e76a97db459ad1f9ce1fb3c9b
+    spriteID: 4265d444688fc3c48910a1ba75f7443f
     spriteOutline: []
     tessellationDetail: 0
   - name: Spirit_large2_1
@@ -37,7 +37,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: e5c85bebaeddcf641b3b4b85ea26617c
+    spriteID: 462747aaec353ff4980c101d6d091c35
     spriteOutline: []
     tessellationDetail: 0
   - name: Spirit_large2_2
@@ -51,7 +51,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: e8289ae8c0b05c24ca60fada90023861
+    spriteID: 00eb47fa297df6945a7ac83217b4ebc8
     spriteOutline: []
     tessellationDetail: 0
   - name: Spirit_large2_3
@@ -65,7 +65,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 5230c210b7f50f546b36e0eb44a69aa2
+    spriteID: 029f3a81a086a95489c0bb64cfb0ca52
     spriteOutline: []
     tessellationDetail: 0
   - name: Spirit_large2_4
@@ -79,7 +79,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: a911ab696e5f6634ca59e866c1bd3dc8
+    spriteID: d4641b0ede6e9fc48a0a186f0ace5a2d
     spriteOutline: []
     tessellationDetail: 0
   - name: Spirit_large2_5
@@ -93,7 +93,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: 298edc9dbd156274b863166c13bd401c
+    spriteID: e95119a1645dd774c940c71ba6bc9278
     spriteOutline: []
     tessellationDetail: 0
   - name: Spirit_large2_6
@@ -107,7 +107,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: 88ecfb32b833fb54cb11fd8c98be82f7
+    spriteID: 93a05f95baa217a4ebf006d1048670ba
     spriteOutline: []
     tessellationDetail: 0
   - name: Spirit_large2_7
@@ -121,7 +121,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: d987818050ee4ba46ac44e2a4dea0057
+    spriteID: 61fefd36a34d0884b826e5aa180e32ad
     spriteOutline: []
     tessellationDetail: 0
   _secondaryTextures: []
